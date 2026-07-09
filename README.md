@@ -70,8 +70,6 @@ python keyblocker.py
 
 ##  Screenshots
 
-> Add screenshots of:
->
 > - Application Interface
 > - Detection Logs
 > - Keylogger Monitoring Window
