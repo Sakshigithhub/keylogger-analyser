@@ -69,11 +69,21 @@ python keyblocker.py
 
 ---
 
-##  Screenshots
+## Screenshots
 
-> - Application Interface
-> - Detection Logs
-> - Keylogger Monitoring Window
+The application includes the following interfaces and outputs:
+
+- Application Interface
+- Detection Dashboard
+- Keylogger Monitoring Window
+- Process Detection Logs
+- Log Generation
+- Categorized Data View
+- Email Notification
+- Project Information Window
+- Process Termination Feature
+
+> Screenshots are available in the `keylogger screenshots/` folder of this repository.
 
 ---
 
