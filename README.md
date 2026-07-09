@@ -115,6 +115,12 @@ This project helped me gain practical knowledge in:
 
 ---
 
-## 📜 License
+##  License
 
 This project is intended for **educational and research purposes only**. Any misuse of this software is strictly discouraged.
+
+##  Author
+
+**Sakshi**
+
+GitHub: https://github.com/Sakshigithhub
