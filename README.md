@@ -57,12 +57,13 @@ keylogger-analyzer/
 ### Install Dependencies
 
 ```bash
-pip install psutil pynput
+pip install -r requiremets.txt
 ```
 
 ### Run the Project
 
 ```bash
+python keylogger.py
 python keyblocker.py
 ```
 
